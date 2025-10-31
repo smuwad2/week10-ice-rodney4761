@@ -21,5 +21,6 @@
     <!-- TODO: Add Code Here to make use of the component -->
     <sound-icon :level="soundLevel"></sound-icon>
 
+
 </template>
 
