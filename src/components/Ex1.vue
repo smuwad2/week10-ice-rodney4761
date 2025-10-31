@@ -22,3 +22,4 @@
     <sound-icon :level="soundLevel"></sound-icon>
 
 </template>
+
